@@ -1,0 +1,116 @@
+/* header {
+ height:120vh;
+    min-width: height 1px;
+    background-size:cover;
+    background-image: url('../img/foto1.png');
+    background-repeat: no-repeat; 
+
+} */
+/* .barra-navegacion {
+  padding: 0%;
+} */
+
+  body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Blinker', sans-serif;
+
+  }
+  
+  h1 {
+    font-weight: 800;
+    font-size: 3.75em;
+    margin-bottom: 0.25em;
+    font-family: 'Blinker', sans-serif;
+    color: darkslategray;  
+    }
+  
+  h2 {
+    font-weight: 700;
+    font-size: 2.5em;
+    color: darkslategray;
+    font-family: 'Blinker', sans-serif;
+  }
+  
+  h3 {
+    font-size: 2em;
+    font-family: 'Sulphur Point', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Blinker', sans-serif;
+    color: rgb(83, 121, 121);
+  }
+  
+  h4 {
+    font-size: 1.75em;
+    font-family: 'Blinker', sans-serif;
+    color: darkslategray;
+  }
+  h5 {
+    font-size: 1.25em;
+    font-family: 'Blinker', sans-serif;
+    color: darkslategray;
+  }
+  
+
+.shadow-lg {
+    box-shadow: 0 1rem 3rem rgba(199, 159, 159, 0.200)!important;
+}
+.imagen-mobile{
+    padding-top: 20%;
+}
+.nav-link {
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  color: salmon;
+}
+.navbar-light .navbar-toggler {
+    color: salmon;
+    border-color: sandybrown;
+    text-shadow: blanchedalmond;
+    text-justify: auto;
+    font-size: 30px;
+    
+}
+.portafolio {
+  padding: 5%;
+} 
+.text-white {
+  color: #fff900a8!important;
+}
+
+.navbar-collapse {
+  text-align: left;
+}
+
+
+.imagen-central{
+    padding: 0%;
+    margin: 0%;
+    min-height:400px;
+}
+
+.hidden-spacer {
+    height: 56px
+}
+.logo-portafolio {
+    color: orangered;
+    font-family: 'Sulphur Point', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.footer {
+    background-color: black;
+    color: ivory;
+
+}
+.firma {
+  background-color: black;
+}
+.fab {
+  color:orange;
+}
